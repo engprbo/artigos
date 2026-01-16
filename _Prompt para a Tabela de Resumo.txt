@@ -1,0 +1,13 @@
+GPT, vamos refazer as tabelas parcialmente da seguinte forma:
+Gere uma tabela dos artigos que:
+a) inicia em "2022 Stochastic Scheduling of Mobile Energy Storage Systems for Transmission System Resilience Enhancement-IEEE";
+b) Termina em "2022 Volume 4-Grid Realiability Through Clean Energy-Stanford Law Review";
+Contendo":
+1) nas linhas: o nome de cada arquivo;
+2) nas colunas vai dizer:
+a) Decisão (guardado ou descartado);
+b) Foco do artigo;
+c) Nível de importância para a tese (baixo, médio, alto, altíssimo);
+d) Ponto da tese que o artigo se encaixa de encaixa (contextualização, justificativa da escolha, objetivos específicos, revisão da literatura, resiliência dos sistemas elétricos, lacuna encontrada ou Metodologia adotada) - pode ter mais de um ponto;
+e) Pontuação do artigo em Relação ao meu tema de trabalho (Resiliência das Linhas de Transmissão).
+Nota: Verifique com atenção cada resumo para não pular nenhum e não mude as avaliações que já fez e nem as notas dada anteriormente, pois você já cometeu este erro antes.
