@@ -1,7 +1,0 @@
-Get-ChildItem *.docx | Sort-Object Name | ForEach-Object {
-  $docx = $_.Name
-
-  "<li><a href=""$docx"" target=""_blank"">$docx</a></li>"
-} | Out-File itens.html -Encoding utf8
-
-Write-Host "OK: itens.html gerado."
