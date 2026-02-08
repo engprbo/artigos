@@ -1,0 +1,9 @@
+GPT, este foi o último arquivo do primeiro grupo de 2022. Agora, gere uma tabela dos artigos, contendo:
+1) nas linhas: o nome de cada arquivo;
+2) nas colunas vai dizer:
+a) Decisão (guardado ou descartado);
+b) Foco do artigo;
+c) Nível de importância para a tese (baixo, médio, alto, altíssimo);
+d) Ponto da tese que o artigo se encaixa de encaixa (contextualização, justificativa da escolha, objetivos específicos, revisão da literatura, resiliência dos sistemas elétricos, lacuna encontrada ou Metodologia adotada) - pode ter mais de um ponto;
+e) Pontuação do artigo em Relação ao meu tema de trabalho (Resiliência das Linhas de Transmissão).
+Notas Importante: Verifique com atenção cada resumo para não pular nenhum, pois você já cometeu este erro antes.

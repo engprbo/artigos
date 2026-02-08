@@ -1,0 +1,55 @@
+Modelo Técnico para Análise de Artigos Científicos
+
+Título e autores
+
+Nome completo do artigo, autores e suas afiliações institucionais.
+
+Resumo do abstract (em português)
+
+Tradução técnica e objetiva do resumo original, destacando objetivos, métodos e resultados principais.
+
+1. Introdução
+Contextualização do tema, motivação do estudo, lacunas identificadas e objetivos propostos.
+
+2. Metodologia detalhada
+Descrição dos métodos utilizados, estratégias de pesquisa, modelos, ferramentas, simulações ou bases de dados. Explicação clara da abordagem adotada.
+
+3. Resultados com indicação de figuras e tabelas
+Apresentação dos resultados obtidos, incluindo identificação explícita das figuras, tabelas e gráficos relevantes (nome, função e localização no artigo).
+
+4. Discussão aprofundada
+Interpretação dos resultados, comparação com literatura anterior, implicações práticas e críticas aos limites do estudo.
+
+5. Conclusão crítica
+Síntese dos achados, recomendações técnicas e sugestões para pesquisas futuras.
+
+6. Referências bibliográficas citadas no texto
+Lista de autores e fontes mencionados no resumo (em estilo técnico compatível com IEEE ou APA, conforme o artigo).
+
+7. Agradecimentos (se houver)
+Registro de apoios financeiros, institucionais ou contribuições relevantes.
+
+8. Pontuação de 0 a 10 usando os critérios a seguir:
+a) 0–2 = irrelevante;
+b) 3–4 = fraco;
+c) 5–6 = moderado;
+d) 7–8 = forte;
+e) 9–10 = diretamente nuclear para Resiliência das Linhas de Transmissão.
+Nota Importante: Os artigos com pontuação maior ou igual a 9 formam o núcleo duro da tese com as características:
+- Há uma lacuna clara identificada: inexistência de um índice simples, operacional e específico para linhas de transmissão, integrando impacto + tempo de recuperação + severidade climática.
+- A sua proposta encaixa-se perfeitamente como: evolução natural da literatura existente; resposta direta às limitações apontadas pelos próprios autores.
+
+8. Decisão sobre:
+a) Descartar;
+b) Guardar como Grau Alto (pontuação maior ou igual a 7);
+c) Guardar como Grau Baixo (pontuação abaixo de 7)
+
+Notas Importantes:
+
+2) Por se tratar de um artigo/documento com informações importantes para a minha tese de doutoramente, deverá fazer um resumo expandido, mantendo:
+a) A estrutura completa padrão que definimos, acima;
+b) É necessário explicações técnicas detalhadas em cada seção;
+c) As tabelas e gráficos tem que ter identificação rigorosa com localização no documento;
+d) Tem que ter reforço dos conceitos-chaves, inclusive com base em normas ou autores relevantes citados;
+e) Cada análise terá cerca de 3 páginas completas de papel A4 (no mínimo), mantendo qualidade técnica e profundidade suficiente para leitura independente ou uso na tese.
+

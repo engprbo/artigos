@@ -1,0 +1,34 @@
+GPT, vamos trabalhar aqui na contextualiação do meu projeto de tese.
+Resumo dos acontecimentos até aqui, que aconteceram nos chats anteriores a este:
+1) Analisamos mais de 700 arquivos, conforme modelo indicado no arquivo em anexo (Modelo Técnico para Análise de Artigos Científicos.txt) e criamos tabelas resumos, conforme descrito no arquivo que também está em anexo (Tabela Resumo das Avaliações.txt);
+2) Separamos os arquivos em pastas no meu pendrive conforme a classificação que demos nas pré-análises: artigos_descartados, artigos_guardados_grau_alto e artigos_guardados_grau_baixo. Além disso, guardamos os resumos feitos de quase todos os arquivos e colocamos numa pasta chamada de artigos_resumos;
+	a) artigos_descartados - são os artigos que não tem relação direta com a tese.
+	b) artigos_guardados_grau_alto - são os artigos estruturantes: metodologia, modelos, índices, lacunas científicas;
+	c) artigos_guardados_grau_baixo - são os artigos de suporte: contextualização, revisão, exemplos, aplicações;
+3) Criamos repositórios no GitHub com todos os artigos e documentos que tenho, seguindo a mesma estrutura do meu pendrive e que você deve utilizar como referência bibliográfica;
+4) Definimos qual a metodologia de acesso aos repositórios, conforme está no arquivo em anexo (Passo-a-Passo Para Usar os Repositório-Contextualização.pdf), cujos endereços estão a seguir:
+	a) https://engprbo.github.io/artigos/ - este é o início onde tem o índice para acessar os outros repositórios e onde você vai acessar primeiro;
+	b) https://engprbo.github.io/artigos_descartados/ - tem a tabela resumo dos arquivos desccartados e respectivos arquivos;
+	c) https://engprbo.github.io/artigos_guardados_grau_alto/  - tem a tabela resumo dos arquivos com grau alto e respectivos arquivos;
+	d) https://engprbo.github.io/artigos_guardados_grau_baixo/ - tem a tabela resumo dos arquivos com grau baixo e respectivos arquivos;
+	e) https://engprbo.github.io/artigos_resumos/ - tem a tabela resumo dos resumos do arquivos e respectivos arquivos;
+5) Hoje, temos 3 níveis de informação e eles são hierarquicamente bem definidos:
+a) Tabela resumo consolidada no início de cada repositório (arquivo em ".pdf"), a qual pode ser interpretada com um "mapa mestre". Nela você pode encontrar, de forma imediata:
+- decisão (Guardado / Descartado);
+- foco técnico do artigo;
+- grau (Alto, Médio, Baixo);
+- encaixe na tese (contextualização, metodologia, lacuna, etc.);
+- pontuação.
+b) Arquivos de resumo em ".docx" que são diferencial estratégico para aumentar a velocidade para encontrar o arquivo que tem as informações que está procurando. Eles funcionam como uma camada semântica intermediária, algo que nem bases de repositórios grandes oferecem. O resumo técnico já tem os pontos importantes dos artigos, onde é possível verificar se tem a informação que precisamos ou não sem ter que ler o todo.
+c) Arquivos em ".pdf" dos artigos, que são as fontes primárias científicas;
+Procedimento Base:
+1. Depois de localizar um artigo na tabela, vá diretamente ao resumo;
+2. Se encontrar o resumo, verifica se tem o que está buscando;
+2.1 Se não encontrar o resumo vai diretamente ao arquivo em ".pdf" e pula a etapa 3;
+3. E encontrou o que busca no resumo, vá ao artigo em ".pdf";
+4. Extrair metodologia, equações, modelos, dados de caso, estrutura de validação. Senão, volta à tabela resumo e procura outro artigo e repete os passos até encontrar as informações.
+
+Arquivos que devem ser anexoados:
+Modelo Técnico para Análise de Artigos Científicos.txt
+Tabela Resumo das Avaliações.txt
+Passo-a-Passo Para Usar os Repositório-Contextualização.pdf
