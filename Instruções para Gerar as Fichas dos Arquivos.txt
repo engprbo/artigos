@@ -1,0 +1,75 @@
+GPT, vamos iniciar um trabalho que já começamos em outro chat.
+Lá, no outro chat, você me pediu para copiar e colar o texto de instruções abaixo.
+Veja se consegue se lembrar do que vai fazer.
+Vamos produzir fichas individuais em formato .txt para os artigos científicos existentes nos meus repositórios do GitHub.
+Os ficheiros DOCX anexados definem o padrão aprovado de estrutura, conteúdo e nível de detalhe e use-os somente como modelo.
+Cada nova ficha deve ser elaborada mediante leitura direta do PDF original existente nos nossos repositórios do GitHub.
+
+Para cada artigo:
+- localize o PDF pelo nome exato que eu indicar;
+- leia e analise o PDF original;
+- crie uma ficha com nível de detalhe equivalente ao dos exemplos;
+- indique corretamente a localização dos conteúdos por página;
+- escreva a URL completa e visível do PDF no GitHub;
+- não invente informações;
+- não faça um resumo excessivamente reduzido;
+- gere um ficheiro individual .txt, em UTF-8, pronto para descarregar;-
+- não crie nem atualize índice acumulado, pois eu mesmo reunirei as fichas posteriormente.
+
+A ficha deve conter:
+- Código:
+- Ficheiro:
+- Referência:
+- Repositório:
+- Link Completo Do Pdf:
+- Conteúdo Indexado
+- Localização Do Conteúdo
+- Termos De Pesquisa Em Inglês
+- Equivalentes Em Português
+- Possíveis Utilizações Na Tese
+
+Depois de receber estas instruções, pergunte apenas: “Qual é o nome exato do primeiro ficheiro PDF?”
+Após entregar cada ficha TXT, pergunte apenas: “Qual é o nome exato do próximo ficheiro PDF?”
+Continue repetindo este processo sem me pedir novamente as regras.
+Quando a conversa estiver extensa a ponto de aumentar o risco de lentidão, perda de contexto ou erros, não inicie outra ficha. Informe quantas fichas foram concluídas e diga: “Vamos continuar num novo chat.
+
+Seguem em anexo os arquivos em ".docx" e em ".txt" para usar como modelo.
+Nota: lembre-se que deve gerar a ficha em ".txt" que você possa ler e tem que escrever o texto do link completo para encontrarmos o artigo", pois em ".docx" em formato de link, mas em ".txt" tem que ser texto.
+
+Vamos a mais cinco fichas, baseadas nos modelos já envianos em anexo e sem inventar.
+A ficha é exclusivamente um índice de localização, não um resumo do documento.
+
+Regras obrigatórias:
+- A ficha completa deve ter no máximo 330 a 350 palavras, inclusive, segundo a contagem do Microsoft Word, incluindo títulos, cabeçalhos, código, nome do ficheiro, referência, repositório e todos os campos da ficha, excluindo apenas o URL completo.
+- Na mensagem de entrega, informe: “Contagem verificada no ficheiro final: número de palavras, excluindo somente o URL completo.”
+- Antes de entregar, conte as palavras e reduza o texto se ultrapassar o limite.
+- Preserve obrigatoriamente:
+. código;
+. nome exato do ficheiro;
+. referência bibliográfica;
+. repositório;
+. link completo e visível do PDF.
+- Em “Conteúdo indexado”, utilize entre 8 e 12 conceitos realmente distintivos do documento. Evite termos genéricos quando existirem expressões mais específicas.
+- Inclua sempre nomes de métodos, modelos, índices, equações, cenários, sistemas, eventos, bases de dados ou siglas que sejam importantes para identificar exclusivamente o documento.
+- Em “Localização do conteúdo”, utilize no máximo três itens, indicando apenas as páginas onde estão:
+. o conceito ou método principal;
+. os resultados ou aplicação principal;
+. a conclusão relevante, quando necessária.
+- Em “Termos de pesquisa em inglês”, utilize no máximo 12 expressões presentes ou claramente correspondentes ao documento.
+- Em “Equivalentes em português”, utilize no máximo 12 expressões equivalentes.
+- Em “Possíveis utilizações na tese”, escreva no máximo 35 palavras e não invente aplicações que não possam ser justificadas pelo conteúdo.
+- Não descreva o documento página por página, não relacione todos os capítulos e não reproduza todos os resultados.
+- Quando existir um resultado numérico, equação, índice ou conceito que diferencie o documento dos demais, inclua apenas o mais relevante.
+- Antes de gerar o TXT, confirme se a ficha permite responder:
+. qual é o documento;
+. quem o escreveu;
+. qual é o seu tema ou método distintivo;
+. onde está o conteúdo principal.
+- Gere um único arquivo TXT em UTF-8, mantendo exatamente o nome do PDF e alterando apenas a extensão.
+
+Repositório: artigos_guardados_grau_alto
+Arquivo 1: 2014 Systems Resilience for Multihazard Environments-Definition, Metrics, and Valuation for Decision Making-Risk Analysis.pdf
+Arquivo 2: 2014 The Resilience of the Electricity System-STC.pdf
+Arquivo 3: 2015 Influence of extreme weather and climate change on the resilience of power systems Impacts and possible mitigation strategies-ELSEVIER.pdf
+Arquivo 4: 2015 Methods for Analysis and Quantification of Power System Resilience-IEEE.pdf
+Arquivo 5: 2015 Modelling and Evaluating the Resilience of Critical Electrical Power Infrastructure to Extreme Weather Events-IEEE.pdf
