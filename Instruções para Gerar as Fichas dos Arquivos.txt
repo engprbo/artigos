@@ -68,8 +68,8 @@ Regras obrigatórias:
 - Gere um único arquivo TXT em UTF-8, mantendo exatamente o nome do PDF e alterando apenas a extensão.
 
 Repositório: artigos_guardados_grau_alto
-Arquivo 1: 2014 Systems Resilience for Multihazard Environments-Definition, Metrics, and Valuation for Decision Making-Risk Analysis.pdf
-Arquivo 2: 2014 The Resilience of the Electricity System-STC.pdf
-Arquivo 3: 2015 Influence of extreme weather and climate change on the resilience of power systems Impacts and possible mitigation strategies-ELSEVIER.pdf
-Arquivo 4: 2015 Methods for Analysis and Quantification of Power System Resilience-IEEE.pdf
-Arquivo 5: 2015 Modelling and Evaluating the Resilience of Critical Electrical Power Infrastructure to Extreme Weather Events-IEEE.pdf
+Arquivo 1: 22018 Visualization of Network Vulnerability During Extreme Weather Events for Situation Awareness Enhancement-IEEE.pdf
+Arquivo 2: 2019 A review on resilience assessment of energy systems-Sustainable and Resilient Infrastructure.pdf
+Arquivo 3: 2019 Extreme Weather and Climate Vulnerabilities of the Electric Grid A Summary of Environmental Sensitivity Quantification Methods-ORNL.pdf
+Arquivo 4: 2019 Identification, visualization and reduction of risk related to HILP events in power systems-IEEE.pdf
+Arquivo 5: 2019 Impact of Weather Conditions on Line Ampacity of Overhead Transmission Lines-IEEE.pdf
